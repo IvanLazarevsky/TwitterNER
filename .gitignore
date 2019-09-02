@@ -1,0 +1,4 @@
+# Checkpoints
+*.ckpt
+# Tensorboard logs
+events.out.*

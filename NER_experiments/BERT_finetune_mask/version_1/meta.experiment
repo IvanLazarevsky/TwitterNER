@@ -1,0 +1,1 @@
+{"name": "BERT_finetune_mask", "version": 1, "tags_path": "NER_experiments/BERT_finetune_mask/version_1/meta_tags.csv", "metrics_path": "NER_experiments/BERT_finetune_mask/version_1/metrics.csv", "autosave": false, "description": null, "created_at": "2019-09-02 07:33:15.641099", "exp_hash": "BERT_finetune_mask_v1"}

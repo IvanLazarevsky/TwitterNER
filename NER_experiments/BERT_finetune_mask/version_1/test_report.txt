@@ -1,0 +1,15 @@
+             precision    recall  f1-score   support
+
+     person       0.60      0.75      0.67       190
+    company       0.63      0.70      0.66       139
+        loc       0.83      0.73      0.78       226
+   facility       0.35      0.65      0.46        60
+      other       0.41      0.51      0.45       167
+musicartist       0.38      0.27      0.32        48
+    product       0.33      0.31      0.32        55
+      movie       0.15      0.17      0.16        12
+ sportsteam       0.47      0.52      0.50        54
+     tvshow       1.00      0.14      0.25        14
+
+  micro avg       0.55      0.61      0.58       965
+  macro avg       0.58      0.61      0.58       965

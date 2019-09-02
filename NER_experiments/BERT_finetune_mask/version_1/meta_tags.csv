@@ -1,0 +1,15 @@
+key,value
+basic_model,BERT
+replace_urls,True
+replace_numbers,False
+split_hashtags,False
+split_nicknames,False
+val_batch_size,24
+train_batch_size,16
+lr,3e-05
+gradient_acccumulation_steps,1
+gradient_clipping_norm,5.0
+n_epochs,4
+mask_additional_wordpieces,True
+experiment_name,BERT_finetune_mask
+n_classes,21
