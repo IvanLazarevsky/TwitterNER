@@ -1,0 +1,1 @@
+{"name": "BILSTM-over-flair", "version": 5, "tags_path": "NER_experiments/BILSTM-over-flair/version_5/meta_tags.csv", "metrics_path": "NER_experiments/BILSTM-over-flair/version_5/metrics.csv", "autosave": false, "description": null, "created_at": "2019-09-04 12:33:28.297355", "exp_hash": "BILSTM-over-flair_v5"}

@@ -1,0 +1,1 @@
+{"name": "BILSTM-over-BERT", "version": 3, "tags_path": "NER_experiments/BILSTM-over-BERT/version_3/meta_tags.csv", "metrics_path": "NER_experiments/BILSTM-over-BERT/version_3/metrics.csv", "autosave": false, "description": null, "created_at": "2019-09-04 14:17:54.525408", "exp_hash": "BILSTM-over-BERT_v3"}
